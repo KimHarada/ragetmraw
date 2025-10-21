@@ -23,4 +23,26 @@ www.canva.cn
 buy.stripe.com
 gatehub.net
 .pub
+pkgs.tailscale.com
+login.tailscale.com
+api.tailscale.com
+controlplane.tailscale.com
+controlplane.tailscale.io
+derp.tailscale.com
+derp1.tailscale.com
+derp2.tailscale.com
+derp3.tailscale.com
+derp4.tailscale.com
+derp5.tailscale.com
+derp6.tailscale.com
+derp7.tailscale.com
+derp8.tailscale.com
+derp9.tailscale.com
+derp10.tailscale.com
+derp11.tailscale.com
+derp12.tailscale.com
+derp13.tailscale.com
+derp14.tailscale.com
+derp15.tailscale.com
+
 
