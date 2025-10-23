@@ -44,5 +44,6 @@ derp12.tailscale.com
 derp13.tailscale.com
 derp14.tailscale.com
 derp15.tailscale.com
+rutracker.org
 
 
