@@ -45,5 +45,29 @@ derp13.tailscale.com
 derp14.tailscale.com
 derp15.tailscale.com
 rutracker.org
+cdn-telegram.org
+comments.app
+contest.com
+fragment.com
+graph.org
+quiz.directory
+t.me
+tdesktop.com
+telega.one
+telegra.ph
+telegram-cdn.org
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telesco.pe
+tg.dev
+tx.me
+usercontent.dev
+graph.facebook.com
+whatsapp.biz
+whatsapp.com
+whatsapp.net
+
 
 
